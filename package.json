@@ -1,5 +1,5 @@
 {
-  "name": "styled-qr-code",
+  "name": "pinesrocks-qr-codes",
   "version": "1.0.0",
   "description": "Add a style and an image to your QR code",
   "main": "lib/styled-qr-code.js",
@@ -39,7 +39,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KilianB/styled-qr-code.git"
+    "url": "git+https://github.com/nikolaistarostin/pinesrocks-qr-codes.git"
   },
   "keywords": [
     "qr",
@@ -58,18 +58,22 @@
     "design"
   ],
   "author": {
-    "name": "Kilian Brachtendorf",
-    "email": "kilian@brachtendorf.dev"
+    "name": "Nikolai Starostin",
+    "email": "nikolstarostin@gmail.com"
   },
   "contributors": [
     {
       "name": "Denys Kozak",
       "email": "kozak.denys.dev@gmail.com"
+    }, 
+    {
+    "name": "Kilian Brachtendorf",
+    "email": "kilian@brachtendorf.dev"
     }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KilianB/styled-qr-code/issues"
+    "url": "https://github.com/nikolaistarostin/pinesrocks-qr-codes/issues"
   },
-  "homepage": "https://github.com/KilianB/styled-qr-code"
+  "homepage": "https://github.com/nikolaistarostin/pinesrocks-qr-codes"
 }
